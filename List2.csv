@@ -1,7 +1,9 @@
 Name,URL
-Person.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2/Person.csv
-Product.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2/Product.csv
-Sales.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2/Sales.csv
-SpecialOffer.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2/SpecialOffer.csv
-Customer.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2/Customer.csv
-CurrencyRate.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2/CurrencyRate.csv
+Person_Address.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Person_Address.csv
+Person_BusinessEntityAddress.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Person_BusinessEntityAddress.csv
+Person_Person.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Person_Person.csv
+Production_Product.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Production_Product.csv
+Production_ProductModelProductDescriptionCulture.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Production_ProductModelProductDescriptionCulture.csv
+Production_ProductSubcategory.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Production_ProductSubcategory.csv
+Sales_SalesOrderDetail.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Sales_SalesOrderDetail.csv
+Sales_SalesOrderHeader.csv,https://raw.githubusercontent.com/thaivinhtoan/ptdlud-csv/master/da2_new/Sales_SalesOrderHeader.csv
